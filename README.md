@@ -1,5 +1,5 @@
+<img width="1584" height="396" alt="new_linkedin_banner" src="https://github.com/user-attachments/assets/ba97b118-22b0-4ea0-a878-647d115304d2" />
 
-![linkedin_banner_final](https://github.com/user-attachments/assets/3bf60b37-bf75-4f36-9f3c-dea4559ccabd)
 
 im currently working on...
 - scraply backend deployment
