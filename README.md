@@ -3,5 +3,6 @@
 
 
 im currently working on...
+- leetcode 😵‍💫
 - scraply backend deployment
 - exploring entropy propagation in vision transformers
