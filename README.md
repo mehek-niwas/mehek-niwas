@@ -4,5 +4,16 @@
 
 im currently working on...
 - leetcode 😵‍💫
-- [scraply](https://github.com/the-AMA-team/scraply) backend deployment
 - [exploring](https://github.com/mehek-niwas/PEEK-Var) entropy propagation in vision transformers
+- [scraply](https://github.com/the-AMA-team/scraply) backend deployment
+
+things i made...
+- [scraply](https://github.com/the-AMA-team/scraply) 
+- [demo notebook](https://github.com/mehek-niwas/PEEK/blob/main/MNIST%20Demo.ipynb) to apply PEEK (explainable ai method) to CNNs
+- machine learning class [final project] 
+- deep learning class [final project]
+
+where i work/have worked...
+ive interned at nextera energy, where i worked on forecasting models using over 20 million calls to predict 
+i also spent time at [describe](https://www.describemed.com/), a health tech startup based in miami (where i signed an nda :D) but essentially i wrote a lot of API routes and postgreSQL queries
+right now, i do research with the [neural transmissions lab](https://github.com/NEural-TransmissionS) at the florida institute of technology
