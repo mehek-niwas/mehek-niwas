@@ -8,7 +8,7 @@ im currently working on...
 - [scraply](https://github.com/the-AMA-team/scraply) backend deployment
 
 things i made...
-- [scraply](https://github.com/the-AMA-team/scraply) 
+- [scraply](https://github.com/the-AMA-team/scraply) --> checkout the [demo video](https://www.youtube.com/watch?v=QsKWQxAiWhE)!
 - [demo notebook](https://github.com/mehek-niwas/PEEK/blob/main/MNIST%20Demo.ipynb) to apply PEEK (explainable ai method) to CNNs
 - machine learning class [final project](https://github.com/mehek-niwas/machine-learning-2024/blob/main/pca_qda_paper.pdf)
 - deep learning class [final project](https://github.com/mehek-niwas/deep-learning-2023/blob/main/rnn_paper.pdf)
