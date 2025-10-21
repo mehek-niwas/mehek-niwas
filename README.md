@@ -10,8 +10,8 @@ im currently working on...
 things i made...
 - [scraply](https://github.com/the-AMA-team/scraply) 
 - [demo notebook](https://github.com/mehek-niwas/PEEK/blob/main/MNIST%20Demo.ipynb) to apply PEEK (explainable ai method) to CNNs
-- machine learning class [final project] 
-- deep learning class [final project]
+- machine learning class [final project](https://github.com/mehek-niwas/machine-learning-2024/blob/main/pca_qda_paper.pdf)
+- deep learning class [final project](https://github.com/mehek-niwas/deep-learning-2023/blob/main/rnn_paper.pdf)
 
 where i work/have worked...
 - interned at nextera energy, where i worked on forecasting models using 20 million calls to predict monthly handle time for budgeting 
