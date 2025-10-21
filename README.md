@@ -2,8 +2,8 @@
 
 
 
-im currently working on...
-- leetcode 😵‍💫
+im currently...
+- leetcoding 😵‍💫
 - [exploring](https://github.com/mehek-niwas/PEEK-Var) entropy propagation in vision transformers
 - [scraply](https://github.com/the-AMA-team/scraply) backend deployment
 
