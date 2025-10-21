@@ -14,6 +14,6 @@ things i made...
 - deep learning class [final project]
 
 where i work/have worked...
-ive interned at nextera energy, where i worked on forecasting models using over 20 million calls to predict 
-i also spent time at [describe](https://www.describemed.com/), a health tech startup based in miami (where i signed an nda :D) but essentially i wrote a lot of API routes and postgreSQL queries
-right now, i do research with the [neural transmissions lab](https://github.com/NEural-TransmissionS) at the florida institute of technology
+- interned at nextera energy, where i worked on forecasting models using over 20 million calls to predict 
+- spent time at [describe](https://www.describemed.com/), a health tech startup based in miami (where i signed an nda :D) but essentially i wrote a lot of API routes and postgreSQL queries
+- research with the [neural transmissions lab](https://github.com/NEural-TransmissionS) at the florida institute of technology
