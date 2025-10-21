@@ -4,5 +4,5 @@
 
 im currently working on...
 - leetcode 😵‍💫
-- scraply backend deployment
-- exploring entropy propagation in vision transformers
+- [scraply](https://github.com/the-AMA-team/scraply) backend deployment
+- [exploring](https://github.com/mehek-niwas/PEEK-Var) entropy propagation in vision transformers
