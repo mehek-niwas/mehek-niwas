@@ -1,6 +1,6 @@
+<img width="1584" height="396" alt="new_linkedin_banner" src="https://github.com/user-attachments/assets/ba97b118-22b0-4ea0-a878-647d115304d2" />
 
-
-student @ rutgers 🐸👽🐡
+<p></p>
 
 im currently...
 - leetcoding 😵‍💫
@@ -18,5 +18,6 @@ where i work/have worked...
 - spent time at [describe](https://www.describemed.com/), a health tech startup based in miami (where i signed an nda :D) but essentially i wrote a lot of API routes and postgreSQL queries
 - research with the [neural transmissions lab](https://github.com/NEural-TransmissionS) @ florida institute of technology
 
+also im a student student @ rutgers 🐸👽🐡 !!
 
-<img width="1584" height="396" alt="new_linkedin_banner" src="https://github.com/user-attachments/assets/ba97b118-22b0-4ea0-a878-647d115304d2" />
+
