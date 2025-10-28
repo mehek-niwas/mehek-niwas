@@ -5,7 +5,6 @@
 im currently...
 - leetcoding 😵‍💫
 - [exploring](https://github.com/mehek-niwas/PEEK-Var) entropy propagation in vision transformers
-- continuing [scraply](https://github.com/the-AMA-team/scraply) backend development
 
 things i made...
 - [scraply](https://github.com/the-AMA-team/scraply) --> checkout the [demo video](https://www.youtube.com/watch?v=QsKWQxAiWhE)!
