@@ -17,6 +17,4 @@ where i work/have worked...
 - spent time at [describe](https://www.describemed.com/), a health tech startup based in miami (where i signed an nda :D) but essentially i wrote a lot of API routes and postgreSQL queries
 - research with the [neural transmissions lab](https://github.com/NEural-TransmissionS) @ florida institute of technology
 
-student @ rutgers... RU RAH RAH ❤️
-
 
