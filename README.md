@@ -3,7 +3,6 @@
 <p></p>
 
 im currently...
-- leetcoding 😵‍💫
 - [exploring](https://github.com/mehek-niwas/PEEK-Var) entropy propagation in vision transformers
 
 things i made...
