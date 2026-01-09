@@ -17,3 +17,4 @@ where i work/have worked...
 - research with the [neural transmissions lab](https://github.com/NEural-TransmissionS) @ florida institute of technology
 
 
+![Profile views](https://counter.kuber.studio/mehek-niwas/hacker/count.svg)
