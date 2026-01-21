@@ -10,7 +10,7 @@ random things i made...
 - [demo notebook](https://github.com/Kenzie-Meni/PEEK/blob/main/MNIST%20Demo.ipynb) to apply PEEK (explainable ai method) to CNNs
 - machine learning class [final project](https://github.com/mehek-niwas/machine-learning-2024/blob/main/pca_qda_paper.pdf)
 - deep learning class [final project](https://github.com/mehek-niwas/deep-learning-2023/blob/main/rnn_paper.pdf)
-- my [personal website](https://mehek-niwas.wiki) 
+- my [website](https://mehek-niwas.github.io) 
 
 where i work/have worked...
 - interned at nextera energy, where i worked on forecasting models using 20 million calls to predict monthly handle time for budgeting 
