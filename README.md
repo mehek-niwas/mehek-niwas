@@ -9,8 +9,7 @@ im currently...
 random things i made...
 - [scraply](https://github.com/the-AMA-team/scraply) --> checkout the [demo video](https://www.youtube.com/watch?v=QsKWQxAiWhE)!
 - [demo notebook](https://github.com/Kenzie-Meni/PEEK/blob/main/MNIST%20Demo.ipynb) to apply PEEK (explainable ai method) to CNNs
-- machine learning class [final project](https://github.com/mehek-niwas/machine-learning-2024/blob/main/pca_qda_paper.pdf)
-- deep learning class [final project](https://github.com/mehek-niwas/deep-learning-2023/blob/main/rnn_paper.pdf)
+- [butter mail](https://github.com/mehek-niwas/butter-mail)
 - my [website](https://mehek-niwas.github.io) 
 
 where i work/have worked...
