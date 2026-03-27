@@ -5,6 +5,7 @@
 im currently...
 - leading [workshops](https://github.com/rutgers-ml-ai/natural-language-processing-26) at rutgers ieee ml/ai in natural language processing (rag rerankers, llm architecture, agentic ai)
 - [exploring](https://github.com/mehek-niwas/PEEK-Var) entropy propagation in vision transformers
+- aws ambassador
 
 random things i made...
 - [scraply](https://github.com/the-AMA-team/scraply) --> checkout the [demo video](https://www.youtube.com/watch?v=QsKWQxAiWhE)!
@@ -16,6 +17,5 @@ where i work/have worked...
 - interned at nextera energy, where i worked on forecasting models using 20 million calls to predict monthly handle time for budgeting 
 - spent time at [describe](https://www.describemed.com/), a health tech startup based in miami (where i signed an nda :D) but essentially i wrote a lot of API routes and postgreSQL queries
 - research with the [neural transmissions lab](https://github.com/NEural-TransmissionS) @ florida institute of technology
-- aws ambassador
 
 ![Profile views](https://counter.kuber.studio/mehek-niwas/hacker/count.svg)
