@@ -5,7 +5,7 @@
 im currently...
 - leading [workshops](https://github.com/rutgers-ml-ai/natural-language-processing-26) at rutgers ieee ml/ai in natural language processing (rag rerankers, llm architecture, agentic ai)
 - [exploring](https://github.com/mehek-niwas/PEEK-Var) entropy propagation in vision transformers
-- aws ambassador
+- aws student builder campus leader
 
 random things i made...
 - [scraply](https://github.com/the-AMA-team/scraply) --> checkout the [demo video](https://www.youtube.com/watch?v=QsKWQxAiWhE)!
