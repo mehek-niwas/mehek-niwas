@@ -11,6 +11,7 @@ random things i made...
 - [scraply](https://github.com/the-AMA-team/scraply) --> checkout the [demo video](https://www.youtube.com/watch?v=QsKWQxAiWhE)!
 - [demo notebook](https://github.com/Kenzie-Meni/PEEK/blob/main/MNIST%20Demo.ipynb) to apply PEEK (explainable ai method) to CNNs
 - [butter mail](https://github.com/mehek-niwas/butter-mail)
+- [reagent](https://github.com/Alred-79/hackprinceton-final) 
 - my [website](https://mehek-niwas.github.io) 
 
 where i work/have worked...
