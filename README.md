@@ -1,6 +1,6 @@
-<img width="1584" height="396" alt="new_linkedin_banner" src="https://github.com/user-attachments/assets/ba97b118-22b0-4ea0-a878-647d115304d2" />
+<!-- <img width="1584" height="396" alt="new_linkedin_banner" src="https://github.com/user-attachments/assets/ba97b118-22b0-4ea0-a878-647d115304d2" />
 
-<p></p>
+<p></p> -->
 
 im currently...
 - leading [workshops](https://github.com/rutgers-ml-ai/natural-language-processing-26) at rutgers ieee ml/ai in natural language processing (rag rerankers, llm architecture, agentic ai)
